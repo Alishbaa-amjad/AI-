@@ -30,6 +30,6 @@ My ultimate goal is to transition from a learner to a developer by:
 * **Machine Learning Models:** Creating predictive models (Regression, Classification, and Clustering) to solve real-world problems.
 * **Deep Learning:** Exploring neural networks to work on advanced automation and computer vision.
 
-If you find my work interesting or have any suggestions to help me improve, feel free to reach out!
+## ⭐ This repository will continously grow as I progress through the AIML training.
 
 ---
