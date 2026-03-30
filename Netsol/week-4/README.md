@@ -1,20 +1,21 @@
-# 📊 Statistical Distributions Visualization in Python
+# 📊 Statistical Distributions & Basic ML (Week 4)
 
 ## 📌 Overview
 
-This project demonstrates the implementation and visualization of major statistical distributions using Python. It includes simple, real-life examples and graphical representations to help beginners understand key concepts in statistics.
+This project covers the implementation and visualization of major statistical distributions along with basic machine learning concepts. It is designed for beginners to understand statistics using simple examples, real-life scenarios, and clear visualizations.
 
-The focus is on:
+In **Week 4**, the project is extended to include:
 
-* Clear understanding of distributions
-* Real-world storytelling approach
-* Clean and interpretable visualizations using Matplotlib
+* Real-world data analysis
+* Distribution fitting
+* Machine Learning pipeline
+* Fraud detection using Poisson anomalies
 
 ---
 
-## 🎯 Distributions Covered
+## 🎯 Topics Covered
 
-This project includes the following distributions:
+### 🔹 Statistical Distributions
 
 * Bernoulli Distribution
 * Binomial Distribution
@@ -24,11 +25,42 @@ This project includes the following distributions:
 * Exponential Distribution
 * T-Distribution
 
-Each distribution is explained with:
+Each distribution includes:
 
-* A real-life scenario
+* Real-life story
 * Python implementation
 * Graphical visualization
+
+---
+
+### 🔹 Basic Machine Learning 
+
+* Synthetic dataset generation
+* Data visualization
+* Understanding distributions
+* Sklearn pipeline:
+
+  * Feature handling
+  * Data scaling
+  * Model training
+
+---
+
+### 🔹 Mini Project 🚨
+
+## Fraud Detection using Poisson Anomalies
+
+A payment system is analyzed where:
+
+* Normal behavior → transactions follow Poisson distribution (λ = 5)
+* Fraud behavior → sudden spikes in transactions
+
+### Features:
+
+* Simulation of normal transactions
+* Injection of fraud anomalies
+* Detection using probability threshold
+* Visualization of anomalies
 
 ---
 
@@ -37,67 +69,73 @@ Each distribution is explained with:
 * Python 🐍
 * NumPy
 * Matplotlib
+* Seaborn
 * SciPy
+* Scikit-learn
 
 ---
 
 ## 📂 Project Structure
 
-```
-📁 Statistical-Distributions
-│── bernoulli.py
-│── binomial.py
-│── poisson.py
-│── normal.py
-│── uniform.py
-│── exponential.py
-│── t_distribution.py
+```id="kz6f0m"
+📁 week-4
+│── Mini Project.ipynb
+│── Probability_distribution_and_basic_ML.ipynb
+│── distributions_tasks.ipynb
 │── README.md
 ```
 
+---
+
 ## 📊 Key Learning Outcomes
 
-* Understanding different types of probability distributions
-* Difference between discrete and continuous distributions
-* Visualization techniques using Matplotlib
-* Real-world applications of statistics
+* Understanding different probability distributions
+* Visualizing data using histograms and KDE plots
+* Identifying distributions from real data
+* Building basic ML pipelines
+* Detecting anomalies using statistical methods
+
+---
 
 ## 💡 Example Insights
 
-* Bernoulli: Single trial success/failure
-* Binomial: Multiple trials success count
-* Poisson: Events per time interval
-* Normal: Data around mean (bell curve)
-* Uniform: Equal probability for all values
-* Exponential: Waiting time between events
-* T-Distribution: Small sample uncertainty
+* Bernoulli → Single event (success/failure)
+* Binomial → Multiple trials
+* Poisson → Events per interval
+* Normal → Bell-shaped data
+* Exponential → Waiting time
+* T-distribution → Small sample uncertainty
+
+---
 
 ## 🎓 Target Audience
 
-This project is ideal for:
-
-* Beginners in statistics
-* Data science students
-* BSCS students (like final year projects)
+* Beginners in Statistics
+* Data Science students
+* BSCS students
 * Anyone learning Python for data analysis
+
+---
 
 ## ✨ Future Improvements
 
-* Add interactive plots (Plotly)
-* Include real datasets
-* Add GUI or dashboard
-* Extend to advanced distributions
+* Add interactive visualizations (ipywidgets / Plotly)
+* Use real-world datasets (traffic, rainfall, finance)
+* Improve anomaly detection using ML models
+* Build dashboard for visualization
+
+---
 
 ## 🤝 Contribution
 
-Feel free to fork this repository and contribute by improving examples or adding new visualizations.
+Feel free to fork this repository and improve:
 
+* Examples
+* Visualizations
+* ML models
 
-## 📧 Contact
-
-For any queries or suggestions, feel free to reach out.
+---
 
 ## ⭐ Support
 
 If you found this project helpful, please give it a ⭐ on GitHub!
-
