@@ -34,25 +34,35 @@ week-1/
 
 ### 🔹 01 — Introduction of Python
 
-* Basic syntax and structure
-* Variables and data types
+* Basic syntax and data types
+* Fundamental Data Structure
 * Printing and simple operations
+* Loading and Exploring the Iris Dataset
+* Selecting Data
+* Data Manipulation
 
 ---
 
 ### 🔹 02 — Basics of Python
 
+* Basic data types
 * Conditional statements (if-else)
 * Loops (for, while)
+* Dictionary Comprehensions
+* Sets
+* Functions (lambda)
+* Classes
 * Basic problem solving
 
 ---
 
 ### 🔹 03 — Vector Operations & Iris Dataset
 
-* NumPy array operations
-* Basic mathematical computations
-* Working with the Iris dataset
+* Basic Vector Operations
+* Basic Matrix Operations
+* Vector Transformations and Angle Calculation
+* Eigenvalues and Eigenvectors
+* Grouping Data Points by Angular Similarity
 * Data visualization concepts
 
 ---
@@ -64,17 +74,18 @@ week-1/
 
   * Autocorrect systems
   * Spam detection
+* Next-Word Prediction
+* N-gram Language Models
+* Model Implementation
+* Spam/Ham Classification
 * Terminologies:
-
   * Experiment, Trial, Outcome, Sample Space
-* Introduction to NLP concepts (Corpus)
 
 ---
 
 ### 🔹 05 — Bigram & Trigram Models
 
 * N-gram language models
-* Markov assumption
 * Next-word prediction
 * Implementation of:
 
@@ -86,10 +97,18 @@ week-1/
 
 ### 🔹 06 — Python Data Structures
 
+* Primitive Data Types
+* Boolean Logic
+* String Operations
+* Loops & Conditionals
 * Lists, Tuples, Sets, Dictionaries
-* List comprehensions
-* Dictionary operations
-* Practical problem-solving tasks
+* NumPy Arrays
+* Array Indexing, Slicing & Reshaping
+* Vectorised Operations & Broadcasting
+* Pandas DataFrames
+* Selecting, Filtering & Adding Columns
+* Capstone: Combined Data Structures Challenge
+* Reflection Questions
 
 ---
 
