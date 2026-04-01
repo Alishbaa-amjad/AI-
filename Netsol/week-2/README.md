@@ -32,43 +32,57 @@ week-2/
 
 ### 🔹 01 — Data Visualization
 
-* Introduction to Matplotlib and Seaborn
-* Line charts, bar charts, histograms, scatter plots
-* Customizing plots with labels, titles, and styles
-* Visualizing trends and distributions
+*Tasks covering Matplotlib, Seaborn, Bokeh & Plotly
+* Multi-Line Plot with Matplotlib
+* Grouped Bar Chart with Matplotlib
+* Histogram Analysis with Matplotlib
+* Dashboard of 4 Plots with Matplotlib Subplots
+* Seaborn EDA on the tips Dataset
+* Seaborn Scatter Plot with Regression Line
+* Interactive Line Plot with Bokeh
+* Interactive Charts with Plotly Express
+* Reflection Questions
 
 ---
 
 ### 🔹 02 — Statistics with Python
 
-* Descriptive statistics (`mean`, `median`, `mode`, `std`, `variance`)
-* Quartiles, IQR, skewness, and z-scores
-* Correlation between numerical features
-* Central tendency and dispersion analysis
-* Hands-on implementation with Python lists and Pandas DataFrames
+* Calculate Basic Statistics (`mean`, `median`, `mode`)
+* Measure the Spread(`range`,`std`, `variance`)
+* Quartiles & Five-Number Summary
+* Detect Outliers Using IQRs
+* Z-Score Normalisation
+* Explore Skewness
+* Correlation Analysis
+* Full Stats with pandas
+* Hypothesis Testing
+* MINI PROJECT: Build a Stats Report Function
 
 ---
 
 ### 🔹 03 — Hypothesis Testing
 
-* Formulating null (H₀) and alternative (H₁) hypotheses
-* Performing independent t-tests
-* Interpreting t-statistics and p-values
-* Drawing conclusions for real-world scenarios
-* Comparing group means for statistical significance
+* State the null (H₀) and alternative (H₁) hypotheses
+* The Threshold (α)
+* Build the Null Distribution (Simulation)
+* Look at the Evidence
+* Calculate the p-value
+* Make the Decision 
+* Bonus Challenge: The Exact p-value
 
 ---
 
 ### 🔹 04 — Exploratory Data Analysis (EDA)
 
-* Handling missing values (`NaN`, `?`)
-* Numerical vs categorical feature analysis
-* Histograms, KDE plots, boxplots, and violinplots
-* Countplots and grouped visualizations
-* Correlation heatmaps and pairplots
-* Identifying trends over time (e.g., `mpg` vs `model_year`)
-* Tukey’s method for detecting outliers
-* Summary tables for feature relationships
+* Auto-MPG Dataset
+* Import Libraries
+* Load & Inspect Data
+* Pre-Processing
+* Feature Engineering
+* Categorical EDA
+* Numerical EDA
+* Numerical vs Categorical
+* Summary Table
 
 ---
 
@@ -109,6 +123,7 @@ and build a strong foundation for Machine Learning projects.
 
 **Alishba Amjad**
 🎓 BS Computer Science (Completed)
+
 📍 AI/ML Trainee — NETSOL
 
 ---
