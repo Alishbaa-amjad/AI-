@@ -1,7 +1,3 @@
-Here’s your **Week 2 README improved with clean emojis + better formatting** (same content, just polished and consistent) 👇
-
----
-
 # 📘 AI/ML Learning Journey — Week 2 (NETSOL)
 
 ## 📌 Overview
