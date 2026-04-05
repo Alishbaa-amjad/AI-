@@ -172,4 +172,11 @@ Week 4 bridges the gap between **theory and practical implementation**, helping 
 
 ---
 
+## 👩‍💻 Author
+
+**Alishba Amjad**
+BS Computer Science | AIML Trainee at NETSOL
+
+---
+
 🚀 **Stay tuned for Week 5!** ✨
