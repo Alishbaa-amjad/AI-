@@ -1,37 +1,56 @@
-# 📊 Titanic Dataset - Statistical Distribution Analysis
+# 📘 Week 5 — AI/ML Learning Journey (NETSOL)
 
-## 📌 Project Overview
+## 📌 Overview
 
-This project focuses on analyzing the **Titanic dataset** using different **statistical distributions** and **data visualization techniques**. The main goal is to understand how different types of data behave and how appropriate distributions can be applied to each column.
+This repository contains my **Week 5 tasks** from the **AI/ML course at NETSOL**.
+The focus of this week was on **Data Distributions** and **Classification Metrics**, along with practical implementation using Python on the **Titanic dataset**.
 
----
+Key areas covered:
 
-## 🎯 Objectives
-
-* Explore dataset and understand column types
-* Apply different probability distributions
-* Visualize data using graphs
-* Check normality of numerical data
-* Apply transformations (log, z-score) to improve distribution
+* 📊 Applying different distributions on dataset columns
+* 🧮 Understanding and implementing classification metrics
+* 🧠 Building intuition on which metric to use in different scenarios
 
 ---
 
-## 📂 Dataset
+## 📂 Repository Structure
 
-The dataset used in this project contains the following columns:
+```bash
+week-5/
+│── 00_Titanic-Dataset.csv
+│── 01_Titanic_Dataset.ipynb
+│── 02_classification_metrics.ipynb
+│── 03_quiz1.pdf
+│── README.md
+```
 
-* PassengerId
-* Survived
-* Pclass
-* Name
-* Sex
-* Age
-* SibSp
-* Parch
-* Ticket
-* Fare
-* Cabin
-* Embarked
+---
+
+## 📚 Tasks Breakdown
+
+### 🔹 00 — Titanic Dataset
+
+* 🌐 Dataset downloaded from the internet
+* 📂 Prepared for analysis in notebooks
+
+---
+
+### 🔹 01 — Titanic Dataset Analysis
+
+* 📊 Explored columns and data types
+* 📈 Applied **Probability Distributions** on different columns:
+
+  * 🎲 Bernoulli Distribution
+  * 🎯 Binomial Distribution
+  * 📉 Normal Distribution
+  * 🧮 Poisson Distribution
+  * 📊 Exponential Distribution
+* 🧩 Distribution Fitting & KDE Plots
+* 📏 Q-Q Plot for Age
+* 🔄 Data Transformation:
+
+  * Age before & after log transformation
+  * Fare before & after log transformation
 
 ---
 
@@ -48,94 +67,78 @@ The dataset used in this project contains the following columns:
 
 ---
 
-## 📈 Visualizations Used
+### 🔹 02 — Classification Metrics
 
-* Histogram + KDE
-* Boxplot (outliers detection)
-* Countplot (categorical data)
-* Pie chart
-* Probability plots
+* 📊 **The Confusion Matrix** — Foundation of all classification metrics
+* ✅ **Accuracy** — The most intuitive metric (but with limitations)
+* 🎯 **Precision** — Trustworthiness of positive predictions
+* 🩺 **Recall** — Ability to find all actual positive cases
+* ⚖️ **F1 Score** — Balancing precision and recall using harmonic mean
+* 🔍 **Specificity** — The forgotten partner of recall
+* 📊 **Dashboard** — All metrics together
+* 🤖 **Real Model Demo** — Logistic Regression on imbalanced Titanic data
+* 📌 **Decision Guide** — Choosing the right metric for the right scenario
 
----
-
-## 🔄 Data Transformation
-
-To improve normality:
-
-* **Log Transformation**
-
-  * Applied on: `Fare`
-  * Result: Reduced skewness and improved symmetry
-
-* **Z-score Normalization**
-
-  * Applied on: `Age`
-  * Result: Standardized data (mean = 0, std = 1)
+> Note: This notebook covers **lecture notes from the instructor**, including explanations, plots, and applied examples.
 
 ---
 
-## 🧪 Normality Testing
+### 🔹 03 — Quiz 1
 
-* Used **Shapiro-Wilk Test**
-* Decision rule:
+* 📝 MCQ type quiz based on **Week 5 topics**
+* 🎯 Topics included:
 
-  * p-value > 0.05 → Data is Normal
-  * p-value < 0.05 → Data is Not Normal
-
----
-
-## 🔍 Key Insights
-
-* `Fare` is highly right-skewed → behaves like exponential distribution
-* `Age` is approximately normally distributed
-* `SibSp` and `Parch` follow count-based (Poisson-like) behavior
-* Categorical variables require frequency-based visualization
+  * Recall, Precision, Accuracy, F1 Score
+  * Identifying TP, FP, FN, TN
+  * Choosing the right metric for scenarios
+  * Calculation-based and institution-based questions
+* 🏆 Score: 100%
 
 ---
 
 ## 🛠️ Technologies Used
 
-* Python 🐍
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* SciPy
+* 🐍 Python
+* 📊 Pandas
+* 🔢 NumPy
+* 📈 Matplotlib
+* 🎨 Seaborn
+* 🤖 Scikit-learn
 
 ---
 
-## ▶️ How to Run
+## 🎯 Key Learnings
 
-1. Install required libraries:
-
-```bash
-pip install pandas numpy matplotlib seaborn scipy
-```
-
-2. Run the notebook or Python file:
-
-```bash
-python analysis.py
-```
+* 📊 Applied different **probability distributions** on real dataset columns
+* ✅ Learned how to **interpret classification metrics** effectively
+* 🧠 Understood **when to use which metric** for different scenarios
+* 🔍 Practiced transforming skewed features for better analysis
+* 🏆 Achieved **full score** in Week 5 quiz validating understanding
 
 ---
 
-## 📌 Conclusion
+## 🧾 Conclusion
 
-This project demonstrates how different statistical distributions can be applied based on data type. It also shows how transformations help in achieving normality, which is important for many statistical methods.
+Week 5 strengthened my understanding of **data distributions** and **classification evaluation metrics**.
+I gained hands-on experience applying transformations, plotting distributions, and analyzing classification performance, which is crucial for building **reliable ML models**.
 
 ---
 
-## 🙌 Author
+## 👩‍💻 Author
 
 **Alishba Amjad**
-BS Computer Science
+🎓 BS Computer Science 
+📍 AI/ML Trainee at NETSOL
 
 ---
 
-## ⭐ Acknowledgment
+## ⭐ Note
 
-This project was completed as part of a NetSol assignment to understand **data distributions and statistical analysis**.
+This repository reflects my **Week 5 learning and practice** with Titanic dataset analysis and classification metrics.
+Next week, we will explore **model evaluation, cross-validation, and advanced ML workflows**.
 
 ---
+
+✨ **Stay tuned for Week 6! 🚀**
+
 
