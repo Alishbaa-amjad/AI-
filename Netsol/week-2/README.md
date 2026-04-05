@@ -1,4 +1,4 @@
-# 📘 AI/ML Learning Journey — Week 2 (NETSOL)
+# 📘 Week 2 — AI/ML Learning Journey (NETSOL)
 
 ## 📌 Overview
 
