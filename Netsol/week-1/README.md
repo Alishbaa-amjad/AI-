@@ -158,7 +158,7 @@ This foundation will support my learning in upcoming weeks, especially in **data
 
 **Alishba Amjad**
 🎓 BS Computer Science 
-📍 AI/ML Trainer at NETSOL
+📍 AI/ML Trainee at NETSOL
 
 ---
 
