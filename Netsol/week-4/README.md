@@ -1,4 +1,4 @@
-# 📊 Statistical Distributions & Basic ML (Week 4)
+# 📊 Week 4 — Statistical Distributions & Basic ML
 
 ## 📌 Overview
 
