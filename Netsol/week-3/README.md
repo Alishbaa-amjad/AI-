@@ -145,13 +145,6 @@ By completing this week, I have learned:
 
 ---
 
-## 📌 Note
-
-GitHub preview may not always render `.ipynb` files correctly.
-For the best experience, open notebooks using **Jupyter Notebook** or **VS Code**.
-
----
-
 ## 🧾 Conclusion
 
 Week 3 provided a strong foundation in data analysis and statistical thinking.
