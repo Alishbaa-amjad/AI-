@@ -1,7 +1,3 @@
-Here’s your **improved, clean, and more professional Week 3 README** — same structure + headings, just enhanced with better flow, clarity, and presentation 👇
-
----
-
 # 📊 Week 3 — Exploratory Data Analysis & Statistical Techniques
 
 ## 📌 Overview
