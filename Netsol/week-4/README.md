@@ -93,9 +93,6 @@ A payment system records the **number of transactions per minute**. We use Poiss
 
 ---
 
-
----
-
 ## 🛠️ Technologies Used
 
 * Python 🐍
