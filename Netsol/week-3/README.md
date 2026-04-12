@@ -157,7 +157,10 @@ This week helped in building a clear understanding of when and how to use differ
 ## 👩‍💻 Author
 
 **Alishba Amjad**
-BS Computer Science | AIML Trainee at NETSOL
+
+🎓 BS Computer Science Graduate
+
+📍 AIML Trainee at NETSOL
 
 ---
 
