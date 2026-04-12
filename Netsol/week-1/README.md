@@ -157,7 +157,9 @@ This foundation will support my learning in upcoming weeks, especially in **data
 ## 👩‍💻 Author
 
 **Alishba Amjad**
-🎓 BS Computer Science 
+
+🎓 BS Computer Science Graduate
+
 📍 AI/ML Trainee at NETSOL
 
 ---
