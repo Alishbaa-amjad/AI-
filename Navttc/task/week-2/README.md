@@ -106,7 +106,10 @@ This week has improved my confidence in writing **efficient and reliable program
 ## 👩‍💻 Author
 
 **Alishba Amjad**
+
 🎓 BS Computer Science Graduate
+
+📍 AI/ML Trainee at NETSOL
 
 I am currently learning and growing my skills in **Python programming and Artificial Intelligence** through hands-on practice and structured training programs like **NAVTTC**.
 
