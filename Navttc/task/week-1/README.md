@@ -39,40 +39,40 @@ week-1/
 
 ### 🔹 Basic Programs
 
-* Addition of two numbers
-* Taking input from user
-* Temperature conversion (Celsius to Fahrenheit)
-* Area calculation (Triangle)
-* Unit conversion (Kilometers to Miles)
+* ➕ Addition of two numbers
+* ⌨️ Taking input from user
+* 🌡️ Temperature conversion (Celsius to Fahrenheit)
+* 📐 Area calculation (Triangle)
+* 📏 Unit conversion (Kilometers to Miles)
 
 ### 🔹 Mathematical Operations
 
-* Square root calculation
-* Square root using `cmath`
-* Solving quadratic equations
+* 🔢 Square root calculation
+* 🧮 Square root using `cmath`
+* 📊 Solving quadratic equations
 
 ### 🔹 Conditional Statements
 
-* `if` statement
-* `if-else` statement
-* Nested `if`
-* `if-elif-else`
-
+* ⚖️ `if` statement
+* 🔀`if-else` statement
+* 🧩 Nested `if`
+* 📌`if-elif-else`
+ 
 ### 🔹 Loops & Control Statements
 
-* `for` loop
-* `while` loop
-* `break` statement
-* `continue` statement
-* Looping techniques
+* 🔁 `for` loop
+* 🔄`while` loop
+* ⛔`break` statement
+* 🔂`continue` statement
+* 🧠 Looping techniques
 
 ### 🔹 Data Structures
 
-* Lists
-* Tuples
-* Strings
-* Sets
-* Dictionaries
+* 📦 Lists
+* 📌 Tuples
+* 🧾 Strings
+* 🧩 Sets
+* 📚 Dictionaries
 
 ---
 
@@ -80,17 +80,35 @@ week-1/
 
 The main goal of this week is to build a strong foundation in Python by:
 
-* Understanding basic syntax
-* Learning problem-solving using code
-* Practicing logic building
-* Getting familiar with core programming concepts
+* 📌 Understanding basic syntax
+* 🧠 Learning problem-solving using code
+* 🔍 Practicing logic building
+* ⚙️ Getting familiar with core programming concepts
 
 ---
 
 ## 🚀 Tools Used
 
-* Python 🐍
-* Jupyter Notebook 📓
+* 🐍 Python 
+* 📓 Jupyter Notebook 
+
+---
+
+🎯 Key Learnings
+* 🧠 Developed strong basics of Python programming
+* 🔁 Understood how loops and conditions work
+* 📊 Learned to solve basic mathematical problems using code
+* 📦 Gained knowledge of important data structures
+* ⚙️ Improved logical thinking and coding skills
+
+---
+
+🧾 Conclusion
+
+Week 1 helped me build a solid foundation in Python programming.
+I learned how to write basic programs, apply logic using conditions and loops, and work with different data structures.
+
+This week is very important because it sets the base for more advanced programming and real-world problem solving in upcoming weeks.
 
 ---
 
@@ -98,18 +116,22 @@ The main goal of this week is to build a strong foundation in Python by:
 
 Alishba Amjad
 
-🎓 BS Computer Science (Completed)
+🎓 BS Computer Science Graduate
 
 📍 AI/ML Trainee at NETSOL
 
+I am currently learning Python and AI/ML through practical training programs like NAVTTC.
+My focus is on improving my programming skills and building a strong base for future development in Artificial Intelligence and software development.
+
 ---
 
-## ✅ Status
+⭐ Status
 
 ✔ All Week 1 tasks completed successfully
-
 
 ---
 
 ✨ Stay tuned for Week 2! 🚀
+
+
 
