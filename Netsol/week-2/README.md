@@ -132,7 +132,9 @@ This week played an important role in developing my understanding of **data-driv
 ## 👩‍💻 Author
 
 **Alishba Amjad**
-🎓 BS Computer Science (Completed)
+
+🎓 BS Computer Science Graduate
+
 📍 AIML Trainee at NETSOL
 
 ---
