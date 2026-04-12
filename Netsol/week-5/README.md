@@ -127,7 +127,9 @@ I gained hands-on experience applying transformations, plotting distributions, a
 ## 👩‍💻 Author
 
 **Alishba Amjad**
-🎓 BS Computer Science 
+
+🎓 BS Computer Science Graduate
+
 📍 AI/ML Trainee at NETSOL
 
 ---
