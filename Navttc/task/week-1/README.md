@@ -98,7 +98,8 @@ The main goal of this week is to build a strong foundation in Python by:
 
 Alishba Amjad
 🎓 BS Computer Science (Completed)
-📍 AI/ML Trainee — NETSOL
+
+📍 AI/ML Trainee at NETSOL
 
 ---
 
