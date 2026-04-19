@@ -51,11 +51,18 @@ week-6/
 
 ### 🔹 03 — Linear Regression from Scratch
 
-* ⚙️ Implementing Linear Regression manually
-* 🧠 Understanding Gradient Descent
-* 🔄 Updating weights (θ₀, θ₁) step-by-step
-* 📉 Loss function (cost minimization)
-* 🎯 Building intuition behind model training
+* 📊 The Dataset: Salary vs. Experience
+* 🔍 Explore the Data
+* ⚙️ Feature Scaling (Pre-processing)
+* 🏗️ HOW TO BUILD A CLASS IN PYTHON
+* ✏️ BUILD YOUR LinearRegressionGD CLASS
+* 🧪 Test Your Class (Sanity Check)
+* 📉 Visualise the Cost Curve
+* 🔮 Make Predictions & Unscale
+* 📏 Evaluate Your Model
+* 🔬 Compare with sklearn LinearRegression
+* 🤔 Reflection Questions
+* 🌟 Bonus Challenge
 
 ---
 
