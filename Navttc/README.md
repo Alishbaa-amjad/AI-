@@ -20,7 +20,7 @@ Navttc/
 │── task/
 │   ├── week-1/
 │   ├── week-2/
-│   ├── week-3/
+│   ├── week-3/...
 │
 │── Quiz/
 │   ├── quiz_01_...
@@ -76,8 +76,11 @@ These tasks helped me build a strong base in **programming logic and data handli
 ## 🚀 My Progress
 
 ✔ Completed multiple weekly tasks
+
 ✔ Practiced real coding problems
+
 ✔ Attempted quizzes for concept validation
+
 ✔ Improved coding confidence step by step
 
 ---
