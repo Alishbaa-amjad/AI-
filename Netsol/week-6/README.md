@@ -5,7 +5,17 @@
 This repository contains my **Week 6 tasks** from the **AI/ML course at NETSOL**.
 This week focused on **Regression Techniques**, especially **Linear Regression**, along with **model evaluation and validation methods**.
 
-The goal was to understand how machine learning models are built, evaluated, and improved using real-world data.
+The goal was to understand how machine learning models are **built, evaluated, and optimized** using real-world data and mathematical intuition.
+
+---
+
+## 🎯 Objectives
+
+* 📊 Understand regression models and their working
+* 📉 Learn different evaluation metrics
+* 🔄 Apply cross-validation techniques
+* 🧠 Build Linear Regression from scratch
+* ⚙️ Strengthen understanding of Gradient Descent
 
 ---
 
@@ -27,42 +37,44 @@ week-6/
 
 ### 🔹 01 — Regression Metrics & Cross Validation
 
+* ⚙️ Setup & Dataset
 * 📊 Understanding regression evaluation metrics:
 
   * 📉 Mean Absolute Error (MAE)
   * 📉 Mean Squared Error (MSE)
   * 📉 Root Mean Squared Error (RMSE)
   * 📈 R² Score (Coefficient of Determination)
-* 🔄 Cross Validation techniques
+* 📊 Side-by-side metric comparison
+* 🔄 Cross-validation techniques
 * 🎯 Model performance evaluation
-* ⚠️ Overfitting vs Underfitting
 
 ---
 
 ### 🔹 02 — Linear Regression
 
 * 📈 Introduction to Linear Regression
-* 🧮 Mathematical intuition behind regression
-* 🔗 Relationship between independent & dependent variables
-* 📊 Data visualization with regression line
-* 🤖 Model implementation using Scikit-learn
+* 🔢 Initialize X and Y values (1 → 100 range)
+* 🎯 Initialize θ₁ (theta) values
+* 📊 Plot X vs Y relationship
+* 📉 Visualize regression line
+* 📊 Draw cost function plots
 
 ---
 
 ### 🔹 03 — Linear Regression from Scratch
 
-* 📊 The Dataset: Salary vs. Experience
-* 🔍 Explore the Data
-* ⚙️ Feature Scaling (Pre-processing)
-* 🏗️ HOW TO BUILD A CLASS IN PYTHON
-* ✏️ BUILD YOUR LinearRegressionGD CLASS
-* 🧪 Test Your Class (Sanity Check)
-* 📉 Visualise the Cost Curve
-* 🔮 Make Predictions & Unscale
-* 📏 Evaluate Your Model
-* 🔬 Compare with sklearn LinearRegression
-* 🤔 Reflection Questions
-* 🌟 Bonus Challenge
+* 📊 Dataset: Salary vs Experience
+* 🔍 Data exploration
+* ⚙️ Feature scaling (pre-processing)
+* 🏗️ Build custom Python class
+* ✏️ Implement `LinearRegressionGD`
+* 🧪 Test model (sanity check)
+* 📉 Visualize cost curve
+* 🔮 Predictions & unscaling
+* 📏 Model evaluation
+* 🔬 Compare with `sklearn` LinearRegression
+* 🤔 Reflection questions
+* 🌟 Bonus challenge
 
 ---
 
@@ -71,20 +83,28 @@ week-6/
 * 📝 MCQs based on regression concepts
 * 📊 Topics included:
 
-  * Regression metrics
-  * Model evaluation
-  * Gradient descent basics
-* 🧠 Conceptual and calculation-based questions
+  * 🧠 Hypothesis & model
+  * 📉 Cost function
+  * 🔄 Gradient descent
+  * ⚙️ Learning rate
+  * 🔢 Manual computation
+  * 💻 Programming logic
+  * 🔁 SGD vs Batch Gradient Descent
+* 🧠 Conceptual + calculation-based questions
 
 ---
 
 ### 🔹 05 — Linear Regression Assignment
 
-* 📂 Applied Linear Regression on dataset
-* 📊 Data preprocessing and visualization
-* 🤖 Model training and prediction
-* 📈 Performance evaluation using metrics
-* 🧾 Final results and insights
+* 📂 Dataset selection
+* 📊 Exploratory Data Analysis (EDA)
+* ⚙️ Data preprocessing
+* 🏗️ Build `LinearRegressionGD`
+* 🔬 Experiment: learning rate comparison
+* ✏️ Written analysis questions
+* 💾 Save & reload best model
+* 📏 Evaluate on original scale
+* 🔬 Compare with `sklearn` model
 
 ---
 
@@ -101,11 +121,12 @@ week-6/
 
 ## 🎯 Key Learnings
 
-* 📊 Understanding how regression models work
-* 📉 Evaluating models using different metrics
-* 🔄 Applying cross-validation for better performance
-* 🧠 Building models from scratch for deeper understanding
-* 🤖 Implementing real-world machine learning workflows
+* 📊 Deep understanding of regression models
+* 📉 Comparing different evaluation metrics
+* 🔄 Importance of cross-validation
+* 🧠 Strong grip on Gradient Descent
+* ⚙️ Building ML models from scratch
+* 🤖 Applying ML concepts to real-world datasets
 
 ---
 
@@ -113,19 +134,20 @@ week-6/
 
 By completing this week, I can now:
 
-* ✔️ Build and evaluate regression models
-* ✔️ Understand model performance deeply
-* ✔️ Avoid overfitting using validation techniques
-* ✔️ Implement ML logic from scratch
+* ✔️ Build and evaluate regression models confidently
+* ✔️ Interpret model performance effectively
+* ✔️ Reduce overfitting using validation techniques
+* ✔️ Implement ML algorithms from scratch
+* ✔️ Compare custom models with library implementations
 
 ---
 
 ## 🧾 Conclusion
 
-Week 6 was a major step forward in my AI/ML journey.
-I learned how to build, evaluate, and improve machine learning models using **Linear Regression**.
+Week 6 was a **major milestone** in my AI/ML journey.
+I not only learned how to use Linear Regression but also understood **how it works internally**, from cost functions to gradient updates.
 
-Understanding both **theory and implementation (from scratch)** helped me gain strong confidence in how ML models actually work behind the scenes.
+This week significantly improved my confidence in **building, analyzing, and optimizing machine learning models**.
 
 ---
 
@@ -134,7 +156,6 @@ Understanding both **theory and implementation (from scratch)** helped me gain s
 **Alishba Amjad**
 
 🎓 BS Computer Science Graduate
-
 📍 AIML Trainee at NETSOL
 
 I am passionate about building real-world AI applications and continuously improving my skills through practical learning and projects.
@@ -143,10 +164,9 @@ I am passionate about building real-world AI applications and continuously impro
 
 ## ⭐ Note
 
-This repository reflects my **Week 6 progress**, focusing on regression modeling and evaluation techniques.
-More advanced machine learning models will be explored in upcoming weeks.
+This repository reflects my **Week 6 progress**, focusing on regression modeling, evaluation, and implementation from scratch.
+These concepts form the foundation for more advanced machine learning algorithms.
 
 ---
 
 ✨ **Stay tuned for Week 7! 🚀**
-
