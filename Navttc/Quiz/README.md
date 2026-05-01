@@ -3,9 +3,9 @@
 ## 📌 Overview
 
 This repository contains all the **quiz screenshots (MCQs)** from my NAVTTC training program.
-Each quiz is based on the topics covered during weekly learning sessions, including **Python fundamentals and NumPy concepts**.
+Each quiz is based on the topics covered during weekly learning sessions, including **Python, NumPy, and now Pandas concepts**.
 
-The purpose of this folder is to keep a **record of my quiz performance and understanding** of key concepts.
+The purpose of this folder is to maintain a **clear record of my learning progress, quiz performance, and conceptual understanding**.
 
 ---
 
@@ -19,16 +19,25 @@ Quiz/
 │── quiz_04_NumPy_Creating_Array.png
 │── quiz_05_NumPy_Indexing_Array.png
 │── quiz_06_NumPy_Slicing_Array.png
-│── quiz_07_NumPy_Datatype.png
-│── quiz_08_Copy_vs_View.png
-│── quiz_09_NumPy_Shape_Array.png
-│── quiz_10_NumPy_Reshape_Array.png
-│── quiz_11_NumPy_Iteration_Array.png
-│── quiz_12_NumPy_Join_Array.png
-│── quiz_13_NumPy_Split_Array.png
-│── quiz_14_NumPy_Search_Array.png
-│── quiz_15_NumPy_Sort_Array.png
-│── quiz_16_NumPy_Filter_Array.png
+│── quiz_07_Numpy_datatype.PNG
+│── quiz_08_copy_vs_view.PNG
+│── quiz_09_Numpy_Shape_Array.PNG
+│── quiz_10_Numpy_reshape_array.PNG
+│── quiz_11_Numpy_Iteration_Array.PNG
+│── quiz_12_Numpy_Join_Array.PNG
+│── quiz_13_Numpy_Split_Array.PNG
+│── quiz_14_Numpy_Search_Array.PNG
+│── quiz_15_Numpy_Sort_Array.PNG
+│── quiz_16_Numpy_Filter_Array.PNG
+│── quiz_17_panda_intro.png
+│── quiz_18_panda_get_started.png
+│── quiz_19_panda_series.png
+│── quiz_20_pandas_DataFrame.png
+│── quiz_21_panda_analyzing_dataframes.png
+│── quiz_22_pandas_read_csv.png
+│── quiz_23_panda_cleaning_data.png
+│── quiz_24_panda_data_correlation.png
+│── quiz_25_pandas.png
 ```
 
 ---
@@ -60,6 +69,19 @@ Quiz/
 
 ---
 
+### 🔹 Pandas Concepts (Newly Added)
+
+* 📘 Pandas Introduction
+* 🚀 Getting Started with Pandas
+* 🔢 Pandas Series
+* 📊 Pandas DataFrames
+* 🔍 Analyzing DataFrames
+* 📂 Reading CSV Files
+* 🧹 Data Cleaning
+* 📈 Data Correlation
+
+---
+
 ## 🧠 Quiz Format
 
 * 📝 All quizzes are **MCQ-based**
@@ -72,16 +94,16 @@ Quiz/
 ## 🎯 Purpose
 
 * 📌 Track my learning progress
-* 🧠 Strengthen understanding of Python & NumPy
+* 🧠 Strengthen understanding of Python, NumPy & Pandas
 * 📊 Evaluate performance through quizzes
-* 📚 Revise important concepts quickly
+* 📚 Quickly revise important concepts
 
 ---
 
 ## 🧾 Conclusion
 
-These quizzes helped me evaluate my understanding of key programming and NumPy concepts.
-They also improved my ability to quickly analyze problems and select correct answers under test conditions.
+These quizzes played an important role in strengthening my understanding of **core programming and data handling concepts**.
+With the addition of **Pandas quizzes**, my learning now covers the complete pipeline from **basic Python → NumPy → Data Analysis**.
 
 ---
 
@@ -90,15 +112,15 @@ They also improved my ability to quickly analyze problems and select correct ans
 **Alishba Amjad**
 🎓 BS Computer Science Graduate
 
-I am currently learning Python and AI/ML through NAVTTC training, focusing on building strong technical skills through both practice and assessment.
+I am currently learning Python and AI/ML through NAVTTC training, focusing on building strong technical skills through both practice and assessments.
 
 ---
 
 ## ⭐ Note
 
-This folder only contains **quiz screenshots (MCQs results)**.
-It is maintained as a record of my performance during the learning journey.
+This folder contains **quiz screenshots (MCQ results only)**.
+It is maintained as a record of my learning journey and performance.
 
 ---
 
-✨ **More quizzes coming soon! 🚀**
+✨ **More quizzes coming soon... Keep learning! 🚀**
