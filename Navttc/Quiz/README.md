@@ -69,7 +69,7 @@ Quiz/
 
 ---
 
-### 🔹 Pandas Concepts (Newly Added)
+### 🔹 Pandas Concepts 
 
 * 📘 Pandas Introduction
 * 🚀 Getting Started with Pandas
