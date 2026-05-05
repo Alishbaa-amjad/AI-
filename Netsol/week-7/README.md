@@ -145,7 +145,7 @@ Week 7 was a significant step forward in my AI/ML journey.
 I not only learned advanced regression techniques but also understood **how to control model complexity using regularization**.
 
 The Human-Zombie dataset made the learning more engaging, while quizzes helped reinforce key ML concepts.
-
+ 
 ---
 
 ## 👩‍💻 Author
