@@ -3,9 +3,9 @@
 ## 📌 Overview
 
 This repository contains my **Week 8 tasks** from the **AI/ML course at NETSOL**.
-This week focused on building a **real-world Machine Learning Mini Application**, along with completing practical assignments on **KNN and Decision Trees**.
+This week focused on building a **real-world Machine Learning Mini Application**, along with completing practical assignments on **KNN and Decision Trees**. 🤖📊
 
-The highlight of this week is an **end-to-end ML project**, where I implemented a system that predicts whether a student will **Pass or Fail** based on study patterns and previous performance.
+The highlight of this week is an **end-to-end ML project**, where I implemented a system that predicts whether a student will **Pass or Fail** based on study patterns and previous performance. 🎯
 
 ---
 
@@ -23,7 +23,7 @@ The highlight of this week is an **end-to-end ML project**, where I implemented 
 
 This ML-based application predicts:
 
-👉 **Will a student pass or fail?**
+👉 **Will a student pass or fail?** 🎓
 
 ### 📥 Input Features:
 
@@ -35,7 +35,7 @@ This ML-based application predicts:
 * ✅ Pass
 * ❌ Fail
 
-The model learns from data patterns and provides predictions based on user input.
+The model learns from data patterns and provides predictions based on user input. 🤖
 
 ---
 
@@ -96,19 +96,32 @@ week-8/
 
 ## 📚 Assignments Covered
 
-### 🔹 01 — KNN Spotify Lab
+### 🔹 01 — KNN Spotify Lab 🎵
 
-* 🎵 Applied **K-Nearest Neighbors (KNN)**
-* 📊 Worked on Spotify dataset
-* 🔍 Learned similarity-based prediction
+* 📂 Load the Spotify Dataset
+* 📊 Visualise the Audio Features
+* 🧹 Preprocessing
+* 📏 Distance Functions
+* 🧠 Build the KNNClassifier Class
+* 🚀 First Real Run on Spotify Data
+* 🔍 Finding the Best K
+* ⚖️ Comparing Distance Metrics
+* 🤖 Benchmark Against Sklearn
+* 🌟 Bonus Challenges
+* 📝 Final Reflection
 
 ---
 
-### 🔹 02 — Decision Tree Worksheet
+### 🔹 02 — Decision Tree Worksheet 🌳
 
-* 🌳 Implemented **Decision Tree concepts**
-* 📊 Learned how models split data
-* 🧠 Understood decision boundaries and rules
+* 📥 Import Libraries
+* 📉 Decision Tree Regression
+* 📊 Dataset: Diabetes (442 patients)
+* 📝 Reflection 1
+* 🌸 Decision Tree Classification
+* 📊 Dataset: Iris Flowers (150 samples)
+* 📝 Reflection 2
+* 🌟 BONUS Challenges
 
 ---
 
@@ -135,14 +148,14 @@ week-8/
 
 ## 🚀 How to Run the App
 
-1. Clone the repository
-2. Install dependencies:
+1. 📥 Clone the repository
+2. 📦 Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Run the app:
+3. ▶️ Run the app:
 
 ```bash
 streamlit run streamlit_app.py
@@ -173,10 +186,10 @@ By completing this week, I can now:
 
 ## 🧾 Conclusion
 
-Week 8 was a **major practical milestone** in my AI/ML journey.
+Week 8 was a **major practical milestone** in my AI/ML journey. 🚀
 I moved from theory to implementation by building a **complete ML application** and applying multiple algorithms like **KNN and Decision Trees**.
 
-This week significantly improved my understanding of how machine learning models are **trained, deployed, and used in real-world applications**.
+This week significantly improved my understanding of how machine learning models are **trained, deployed, and used in real-world applications**. 🤖📈
 
 ---
 
@@ -187,7 +200,7 @@ This week significantly improved my understanding of how machine learning models
 🎓 BS Computer Science Graduate
 📍 AIML Trainee at NETSOL
 
-I am passionate about building intelligent systems and continuously improving my skills through **hands-on AI/ML projects**.
+I am passionate about building intelligent systems and continuously improving my skills through **hands-on AI/ML projects**. 💡
 
 ---
 
