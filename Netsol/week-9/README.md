@@ -44,53 +44,68 @@ week-9/
 
 ### 🔹 01 — Support Vector Machine (SVM) 🤖
 
-* 📊 Introduction to SVM
-* 📈 Classification using hyperplanes
-* 🎯 Margin maximization concept
-* ⚙️ Student dataset implementation
-* 🔍 Decision boundary understanding
+* Breast Cancer
+   * Train Your First SVM and Check if Scaling Matters
+   * What Are Support Vectors? Prove It.
+   * C in Action: Strict vs Forgiving
+   * The Confusion Matrix: Not All Mistakes Are Equal
+* Iris Flowers
+   * C Changes the Boundary Shape: See It
+   * Linear vs RBF vs Polynomial: Which Boundary Fits Best?
+* Handwritten Digits
+   * See the Data: Display the Images
+   * Which Kernel Works Best on Images?
+   * C Matters Here Too: Tune It on the Best Kernel
+   * Look at the Mistakes
+* Bringing It All Together
+  * Best Model for Each Dataset
+* Final Reflection
 
 ---
 
 ### 🔹 02 — Heart Disease Random Forest Assignment 🌲
 
-* ❤️ Heart disease dataset analysis
-* 🌲 Random Forest implementation
-* 📊 Ensemble learning concepts
-* 🔍 Feature importance
-* 🎯 Prediction and classification tasks
+* Import Libraries
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Feature Preparation & Train-Test Split
+* Random Forest — Building the Model
+* Understanding the Forest — Feature Importance
+* Hyperparameter Tuning
+* Cross-Validation
+* Reflection Questions
+* BONUS Section: Challenge Tasks
 
 ---
 
 ### 🔹 03 — PyTorch & TensorFlow Basics 🔥
 
-* 🧠 Introduction to Deep Learning frameworks
-* ⚙️ Tensor operations
-* 🔢 Working with tensors
-* 🤖 Basics of PyTorch
-* 🔥 Basics of TensorFlow
-* 📊 Building simple neural computations
+* Installation & Setup
+* Tensors — The Building Blocks
+* 
 
 ---
 
 ### 🔹 04 — Neural Network Worksheet 🧠
 
-* 📚 Neural Network fundamentals
-* ⚙️ Forward propagation
-* 🔄 Activation functions
-* 📉 Loss functions
-* 🎯 Training process understanding
-* 🤖 Deep Learning basics
+* Setup: Install & Import
+* Load & Visualize the Dataset
+* Build Your First Neural Network
+* Train the Network
+* Visualize the Decision Boundary
+* Peer Inside — Visualize Layer Representations
+* The Activation Function Showdown
+* (Boss Level): The Spiral Dataset
+* Bonus: Animate the Learning Process
+* Summary
 
 ---
 
 ### 🔹 05 — RNN Urdu-English Worksheet 🔄
 
-* 🧠 Introduction to Recurrent Neural Networks (RNN)
-* 🌐 Sequence and language modeling
-* 🔤 Urdu-English sequence processing
-* 📚 NLP-related concepts
-* 🔄 Understanding sequential data flow
+* Setup
+* DataSet
+* 
 
 ---
 
